@@ -1,7 +1,7 @@
 .header{
     background:rgb(65, 4, 22);
     color:white;
-    padding:50px;
+    padding:20px;
     font-size:20px;
 }
 .container{
@@ -17,10 +17,10 @@
     margin-left:20px;
 }
 a:hover{
-    color:yellow;
+    color:orangered;
 }
 .container > div:nth-child(odd){
-    background:rgb(71, 70, 70);
+    background:rgb(48, 44, 44);
     padding:20px;
     box-shadow: 2px, rgb(139, 6, 46);
 }
@@ -29,3 +29,19 @@ a:hover{
     padding:20px;
     box-shadow: 2px, rgb(139, 6, 46);
 }
+p, h2 {
+    color:white;
+}
+button {
+    background-color: #CC0918;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 15%;
+    text-align: center;
+  }
+button:hover {
+    opacity: 0.8;
+  }
