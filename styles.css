@@ -18,7 +18,7 @@
 }
 a:hover{
     color:orangered;
-}
+} 
 .container > div:nth-child(odd){
     background:rgb(48, 44, 44);
     padding:20px;
