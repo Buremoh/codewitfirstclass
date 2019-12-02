@@ -29,13 +29,13 @@ a:hover{
     padding:20px;
     box-shadow: 2px, rgb(139, 6, 46);
 }
-p, h2 {
+p, h2, label {
     color:white;
 }
 button {
-    background-color: #CC0918;
+    background-color: rgb(139, 6, 46);
     color: white;
-    padding: 14px 20px;
+    padding: 10px 20px 10px 20px;
     margin: 8px 0;
     border: none;
     cursor: pointer;
